@@ -5,6 +5,8 @@
 
 util.py是在这个仓库下下载的https://github.com/btahir/deoldify_and_edvr
 
+DCNv2是用的该仓库下的，免编译。https://github.com/tteepe/DCNv2
+
 还需要改一些函数名，有些函数名和原代码不太一样。
 
 这是最终的输出
